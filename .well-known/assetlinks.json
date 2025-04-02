@@ -1,0 +1,15 @@
+[
+  {
+    "relation" : [
+      "delegate_permission/common.handle_all_urls",
+      "delegate_permission/common.get_login_creds"
+    ],
+    "target" : {
+      "namespace" : "android_app",
+      "package_name" : "mts.projects.sessionrecorder",
+      "sha256_cert_fingerprints" : [
+        "92:48:C4:B6:9F:CB:DF:1A:13:35:34:8F:E8:7A:89:50:89:AB:9E:08:86:E2:12:FC:A7:25:C0:1D:DF:A4:93:42"
+      ]
+    }
+  }
+]
